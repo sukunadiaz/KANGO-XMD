@@ -1,7 +1,7 @@
 /*
-  project_name : 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿 Bot
+  project_name : Ryomen Sukuna Bot
   Version : 2.4.0
-  Owner : Hector Manuel
+  Owner : Bishop Dennis
   Do Not Clone 
 
 
@@ -21,7 +21,7 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || '𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿' 
+global.botname = process.env.BOT_NAME || 'Ryomen Sukuna' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
@@ -29,15 +29,15 @@ global.ownernumber = process.env.OWNER_NUMBER || '233509977126'
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Hector Manuel' 
+global.ownername = process.env.OWNER_NAME || 'Bishop Dennis' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿" 
+global.packname = process.env.STICKER_PACK_NAME || "Sukuna MD" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "Hector" 
+global.author = process.env.STICKER_AUTHOR_NAME || "Sukuna" 
 
 //----------------------[ TIMEZONE ]--------------------//
 
@@ -54,17 +54,17 @@ global.dbToken = process.env.GITHUB_TOKEN || "";
 
 //-----------------[ CONTEXT LINK ]--------------------//
 
-global.plink = process.env.PLINK || "https://youtube.com/@official_manuel"
+global.plink = process.env.PLINK || "https://youtube.com/@sukunadiaz?si=S09tJ-udFEBP3dwS"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿"
+global.wm = process.env.GL_WM || "> © Sukuna Diaz"
 
 //---------------------[ REPLIES ]-----------------------//
 
 global.mess = { 
   done: '*Done*', 
-  success: '> © 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿', 
+  success: '> © Sukuna Diaz', 
   owner: `*You don't have permission to use this command!*`, 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
